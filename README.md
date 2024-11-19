@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @orig-un
-- 👀 I’m interested in how brains work and why my cat joins me for meditation time.
+- 👋 Hi
+- 👀 Interested in how brains work and why my cat joins me for meditation time.
 - 🌱 I’m currently learning all things DeSci. 
 - 📫 How to reach me T: @orig_un D: @ori #1538
 
